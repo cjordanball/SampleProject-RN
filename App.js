@@ -3,19 +3,19 @@ import { View, StyleSheet } from 'react-native';
 import StartupComponent from '@comps/StartupComponent';
 
 const App = () => {
-  return (
-    <View style={styles.container}>
-      <StartupComponent />
-    </View>
-  );
+	return (
+		<View style={styles.container}>
+			<StartupComponent />
+		</View>
+	);
 };
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center'
-  }
+	container: {
+		flex: 1,
+		justifyContent: 'center',
+		alignItems: 'center'
+	}
 });
 
 export default App;
