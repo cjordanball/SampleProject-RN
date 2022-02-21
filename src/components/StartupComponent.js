@@ -2,11 +2,11 @@ import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 const StartupComponent = () => {
-    return (
-        <View style={ styles.container }>
-            <Text style={ styles.textStyle }>Goodbye, Cruel World!</Text>
-        </View>
-    );
+	return (
+		<View style={ styles.container }>
+			<Text style={ styles.textStyle }>Goodbye, Cruel World!</Text>
+		</View>
+	);
 };
 
 const styles = StyleSheet.create({
