@@ -1,0 +1,13 @@
+current directory: /Users/jordanball/Desktop/ReactNative/SampleProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/jordanball/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/jordanball/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220220-55579-hq95cm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jordanball/Desktop/ReactNative/SampleProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/jordanball/Desktop/ReactNative/SampleProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/jordanball/Desktop/ReactNative/SampleProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
